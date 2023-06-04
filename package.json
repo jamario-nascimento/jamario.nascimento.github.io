@@ -1,6 +1,7 @@
 {
   "name": "curriculo",
   "version": "0.1.0",
+  "homepage": "https://http://jamario.nascimento.github.io/src/app/",
   "private": true,
   "scripts": {
     "dev": "next dev",
